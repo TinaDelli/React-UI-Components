@@ -1,0 +1,15 @@
+.footer-container{
+    margin:auto;
+    border-bottom: 1px solid lightgrey;
+    margin: 1rem 25rem 2rem 25rem;
+    padding-bottom:1rem;
+    padding-left:4rem;
+}
+
+.fa-comment, .fa-sync, .fa-heart, .fa-envelope {
+    color:grey;
+    font-size:1.2rem;
+    padding-left:3rem;
+
+
+}
